@@ -1,5 +1,6 @@
 ﻿//Chương trình vẽ 1 hình lập phương đơn vị theo mô hình lập trình OpenGL hiện đại
 
+
 #include "Angel.h"  /* Angel.h là file tự phát triển (tác giả Prof. Angel), có chứa cả khai báo includes glew và freeglut*/
 
 // remember to prototype
@@ -1784,7 +1785,7 @@ void spin3() {
 	glutPostRedisplay();
 }
 
-
+//Phím chức năng : https://docs.google.com/spreadsheets/d/1h3zQX8DvD5WXYh-kIk4lUn2W7HMDukYwzsetaOTF5dw/edit?gid=0#gid=0
 void keyboard(unsigned char key, int x, int y)
 {
 	switch (key)
