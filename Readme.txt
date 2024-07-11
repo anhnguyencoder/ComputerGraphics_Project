@@ -1,11 +1,2 @@
-Please read:
-
-opengl-quick-reference-card.pdf
-glsl_quickref.pdf
-The OpenGL Shading Language.pdf
-
-before starting.
-
-
-OGL manpages:
-http://www.opengl.org/sdk/docs/manglsl/
+Tài liệu học tập môn Đồ họa máy tính
+Link drive: https://drive.google.com/drive/folders/1maCYzQ_0-in95MQZ3hGS87zv-EsvKjU1?usp=drive_link
